@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="ItemNodeUraniumPortland">
+		<pos x="5575.66" y="1.5" z="13939.2" a="0"/>
+		<pos x="5590.48" y="0.842257" z="13978.3" a="0"/>
+		<pos x="5608.06" y="0.489552" z="13997.9" a="0"/>
+		<pos x="5644.71" y="-1.14688" z="14047.9" a="0"/>
+		<pos x="5583.66" y="-0.600279" z="13925.3" a="0"/>
+		<pos x="5627.61" y="-0.64407" z="13971.7" a="0"/>
+	</event>
+</events>

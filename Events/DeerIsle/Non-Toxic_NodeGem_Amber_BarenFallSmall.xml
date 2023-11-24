@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="FreezeNode_AmberGemNode">
+		<pos x="7095.1" y="6.59524" z="9731.14" a="0"/>
+		<pos x="7107.22" y="5.74613" z="9755.28" a="0"/>
+		<pos x="7123.3" y="5.39438" z="9749.22" a="0"/>
+		<pos x="7139.95" y="6.5" z="9724.22" a="0"/>
+		<pos x="7182.5" y="6.5" z="9714.95" a="0"/>
+		<pos x="7150.81" y="5.30255" z="9698.53" a="0"/>
+	</event>
+</events>
